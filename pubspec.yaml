@@ -16,7 +16,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  camera: ^0.9.4
+  camera: ^0.10.5+2
   camera_web: ^0.2.1+1
 
 dev_dependencies:
